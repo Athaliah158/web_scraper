@@ -1,0 +1,126 @@
+2025-04-16 10:45:18,367 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 10:45:19,197 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:45:19,197 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:45:19,198 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:45:19,198 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:45:19,198 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:45:19,199 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:45:19,199 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:45:19,199 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:45:19,200 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:45:19,200 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:45:19,223 - INFO - Successfully scraped 0 jobs and saved to scraped_data.csv
+2025-04-16 10:47:45,475 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 10:47:46,356 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:47:46,357 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:47:46,357 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:47:46,358 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:47:46,358 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:47:46,359 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:47:46,359 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:47:46,359 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:47:46,359 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:47:46,360 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:47:46,367 - INFO - Successfully scraped 0 jobs and saved to scraped_data.csv
+2025-04-16 10:58:14,349 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 10:58:15,188 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:58:15,188 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:58:15,189 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:58:15,189 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:58:15,189 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:58:15,189 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:58:15,190 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:58:15,190 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:58:15,190 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:58:15,191 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 10:58:15,198 - INFO - Successfully scraped 0 jobs and saved to scraped_data.csv
+2025-04-16 11:02:09,397 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 11:02:10,270 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:02:10,270 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:02:10,270 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:02:10,271 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:02:10,271 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:02:10,271 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:02:10,271 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:02:10,272 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:02:10,272 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:02:10,272 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:02:10,279 - INFO - Successfully scraped 0 jobs and saved to scraped_data.csv
+2025-04-16 11:05:13,490 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 11:05:14,336 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:05:14,337 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:05:14,337 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:05:14,337 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:05:14,338 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:05:14,338 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:05:14,339 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:05:14,340 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:05:14,340 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:05:14,341 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:05:14,351 - INFO - Successfully scraped 0 jobs and saved to scraped_data.csv
+2025-04-16 11:09:12,416 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 11:09:13,200 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:09:13,200 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:09:13,201 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:09:13,201 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:09:13,201 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:09:13,201 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:09:13,202 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:09:13,202 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:09:13,202 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:09:13,202 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:09:13,209 - INFO - Successfully scraped 0 jobs and saved to scraped_data.csv
+2025-04-16 11:10:56,219 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 11:10:57,123 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:10:57,123 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:10:57,124 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:10:57,124 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:10:57,125 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:10:57,125 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:10:57,125 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:10:57,126 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:10:57,126 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:10:57,126 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:10:57,133 - INFO - Successfully scraped 0 jobs and saved to scraped_data.csv
+2025-04-16 11:59:33,946 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 11:59:34,749 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:59:34,750 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:59:34,750 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:59:34,750 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:59:34,750 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:59:34,751 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:59:34,751 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:59:34,751 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:59:34,751 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:59:34,752 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 11:59:34,759 - INFO - Successfully scraped 0 jobs and saved to scraped_data.csv
+2025-04-16 12:02:02,237 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 12:02:03,076 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:02:03,077 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:02:03,077 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:02:03,077 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:02:03,077 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:02:03,078 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:02:03,078 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:02:03,078 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:02:03,078 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:02:03,079 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:02:03,086 - INFO - Successfully scraped 0 jobs and saved to scraped_data.csv
+2025-04-16 12:08:21,439 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 12:08:22,297 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:08:22,297 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:08:22,298 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:08:22,298 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:08:22,298 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:08:22,299 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:08:22,299 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:08:22,299 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:08:22,300 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:08:22,300 - WARNING - Error processing a job listing: 'NoneType' object has no attribute 'text'
+2025-04-16 12:08:22,307 - INFO - Successfully scraped 0 jobs and saved to scraped_data.csv
+2025-04-16 12:18:37,242 - INFO - Starting scrape of https://vacancymail.co.zw/jobs/
+2025-04-16 12:18:38,101 - INFO - Saved 0 job listings to scraped_data.csv
+2025-04-16 13:00:17,984 - INFO - Scraping completed. 10 jobs saved to scraped_data_2025-04-16_13-00-17.csv
+2025-04-16 13:43:42,130 - INFO - Scraping completed. 10 jobs saved to scraped_data_2025-04-16_13-43-42.csv
+2025-04-16 14:06:53,927 - INFO - Scraping completed. 10 jobs saved to scraped_data_2025-04-16_14-06-53.csv
+2025-04-16 14:12:06,258 - INFO - Scraping completed. 10 jobs saved to scraped_data_2025-04-16_14-12-06.csv
